@@ -3,8 +3,8 @@
 This repository hosts a static website built for **GitHub Pages**, exploring the modern state of virtualization and the long‑standing question:
 **Is there any real difference between VPS and VDS in 2026?**
 
-🌐 **Live site:** `https://your-github-username.github.io/`
-(Replace `your-github-username` with your actual GitHub username.)
+🌐 **Live site:** <https://hosting.cloudns.nz>
+
 
 ---
 
